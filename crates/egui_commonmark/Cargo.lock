@@ -1139,7 +1139,7 @@ dependencies = [
 
 [[package]]
 name = "egui_commonmark_backend_extended"
-version = "0.28.2"
+version = "0.28.3"
 dependencies = [
  "data-url",
  "egui",
@@ -1158,7 +1158,7 @@ dependencies = [
 
 [[package]]
 name = "egui_commonmark_extended"
-version = "0.28.2"
+version = "0.28.3"
 dependencies = [
  "document-features",
  "eframe",
@@ -1175,7 +1175,7 @@ dependencies = [
 
 [[package]]
 name = "egui_commonmark_macros_extended"
-version = "0.28.2"
+version = "0.28.3"
 dependencies = [
  "document-features",
  "egui",
@@ -4157,9 +4157,9 @@ dependencies = [
 
 [[package]]
 name = "rustls"
-version = "0.23.36"
+version = "0.23.46"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c665f33d38cea657d9614f766881e4d510e0eda4239891eea56b4cadcf01801b"
+checksum = "48e13bd8c0e9365c43cfa5c9e8f9ad49d3c8444926c9aac819e0e4dc503c8fdf"
 dependencies = [
  "log",
  "once_cell",
